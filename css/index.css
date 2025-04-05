@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: #9D9E9D;
+    font-family: monospace;
+    font-display: initial;
+}
+
+video {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    color: white;
+    padding: 2rem;
+}
